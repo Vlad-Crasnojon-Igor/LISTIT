@@ -2,7 +2,7 @@
 
 A full-stack marketplace platform for social-media-based sellers in Moldova.
 
-I built this as a two-person team from an MVP specification I wrote myself: a product spec, an architecture, and a Dockerized working platform in about a month. It is my end-to-end product-engineering project — problem definition, data model, API design, frontend, async processing, and deployment in one coherent codebase.
+I built this as a two-person team from an MVP specification,product-engineering project — problem definition, data model, API design, frontend, async processing, and deployment in one coherent codebase.
 
 ## The problem
 
